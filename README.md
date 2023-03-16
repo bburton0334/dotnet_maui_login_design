@@ -3,6 +3,6 @@ Simple UI design without any true back-end features. Just to test UI customizati
 
 ## Here you can see some screenshots of the UI design
 
-<img src="./img/Capture.png" />
-<img src="./img/Capture2.png" />
-<img src="./img/Capture3.png" />
+<img src="./img/Capture.PNG" />
+<img src="./img/Capture2.PNG" />
+<img src="./img/Capture3.PNG" />
